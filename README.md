@@ -103,13 +103,13 @@ generalizing EEG seizure-detection models to unseen individuals.
 
 ```text
 EEG-Seizure-Detection/
-├── notebooks/
-│   └── EEG_Seizure_Detection.ipynb
+├── EEG_Seizure_Detection.ipynb
 ├── results/
 │   ├── logistic_regression_evaluation.png
-│   └── feature_contributions.png
+│   ├── feature_contributions.png
+│   ├── patient_level_metrics.csv
+│   └── feature_coefficients.csv
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
 
