@@ -3,7 +3,7 @@ A patient-wise machine-learning pipeline for detecting epileptic seizure
 activity in scalp EEG recordings from the CHB-MIT dataset.
 This project investigates whether temporal and spectral EEG features can
 distinguish normal interictal activity from ictal seizure activity.
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rmoraru26/EEG-Seizure-Detection/blob/main/EEG_Seizure_Detection.ipynb)
 The pipeline performs:
 
 - automatic EEG download from PhysioNet;
