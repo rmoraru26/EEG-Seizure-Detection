@@ -98,6 +98,13 @@ Logistic Regression achieved the strongest overall performance:
 
 Performance varied across patients, demonstrating the difficulty of
 generalizing EEG seizure-detection models to unseen individuals.
+### Model evaluation
+
+![Confusion matrix and ROC curve](results/logistic_regression_evaluation.png)
+
+### Feature contributions
+
+![Logistic Regression feature contributions](results/feature_contributions.png)
 
 ## Repository structure
 
